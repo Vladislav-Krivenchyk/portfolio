@@ -1,0 +1,129 @@
+{
+    "locale": {
+        "en": "En",
+        "ru": "Ru",
+        "ua": "Ua"
+    },
+    "nav": {
+        "name": "Владислав",
+        "home": "головна",
+        "works": "роботи",
+        "about-me": "про-мене",
+        "contacts": "контакти"
+    },
+    "intro": {
+        "header": "Владислав",
+        "front-end": "фронтенд",
+        "and": "та",
+        "backend": "бекенд розробник",
+        "desc": {
+            "i": "Я ",
+            "create": "створюю",
+            "responsive": "адаптивні",
+            "websites": "вебсайти",
+            "where": "де",
+            "technologies": "технології",
+            "meet": "зустрічають",
+            "creativity": "творчість"
+        },
+        "button_contact": "Зв'яжіться зі мною!"
+    },
+    "quote": {
+        "word": "Досконалість не має меж"
+    },
+    "projects": {
+        "projects": "Проекти",
+        "view": "Переглянути всі"
+    },
+    "skills": {
+        "skills": "навички",
+        "languages": {
+            "languages-skill": "TypeScript Lua Python JavaScript",
+            "languages": "Мови",
+            "typeScript": "TypeScript",
+            "lua": "Lua",
+            "python": "Python",
+            "javaScript": "JavaScript"
+        },
+        "databases": {
+            "database-skill": "Бази даних, SQLite, PostgreSQL, Mongo",
+            "databases": "Бази даних",
+            "SQLite": "SQLite",
+            "PostgreSQL": "PostgreSQL",
+            "Mongo": "Mongo"
+        },
+        "Tools": {
+            "tools-skill": "Інструменти: VSCode Neovim Linux Figma XFCE Arch Font Awesome",
+            "Tools": "Інструменти",
+            "VSCode": "VSCode",
+            "Neovim": "Neovim",
+            "Linux": "Linux",
+            "Figma": "Figma",
+            "XFCE": "XFCE",
+            "Arch": "Arch",
+            "Git": "Font Awesome"
+        },
+        "Other": {
+            "other-skill": "Інше: HTML CSS EJS SCSS REST Jinja",
+            "Other": "Інше",
+            "HTML": "HTML",
+            "CSS": "CSS",
+            "EJS": "EJS",
+            "SCSS": "SCSS",
+            "REST": "REST",
+            "Jinja": "Jinja"
+        },
+        "Frameworks": {
+            "frameworks-skill": "Фреймворки: React Vue Disnake Discord Flask Express",
+            "Frameworks": "Фреймворки",
+            "React": "React",
+            "Vue": "Vue",
+            "Disnake": "Disnake",
+            "Discord": "Discord.js",
+            "Flask": "Flask",
+            "Express": "Express.js"
+        }
+    },
+    "about-me": {
+        "about-me": "про-мене",
+        "question": "Хто я?",
+        "name": "Привіт! Я Влад.",
+        "intro": "Я досвідчений фронтенд розробник з Києва, Україна, з понад трьома роками досвіду. Моя спеціалізація - створення красивих та сучасних веб-сайтів. За цей час я освоїв різноманітні технології та методи розробки, і тепер я пишаюся тим, що будую адаптивні та привабливі інтерфейси користувача з нуля.",
+        "experience": "Мій досвід роботи з різними клієнтами допоміг мені краще розуміти їхні потреби та створювати веб-рішення, які дійсно працюють і приносять користь.",
+        "skills": "Я завжди прагну покращувати свої навички та залишатися в курсі останніх технологій та трендів у галузі фронтенд розробки. Це допомагає мені залишатися на передовому фронті і створювати сучасні та інноваційні веб-додатки.",
+        "conclusion": "Якщо у вас є цікаві проекти або ідеї, давайте обговоримо, як я можу допомогти їх реалізувати!"
+    },
+    "contacts": {
+        "section": "контакти",
+        "question": "Хто я",
+        "intro": "Я зацікавлений у фріланс-можливостях. Проте, якщо у вас є інші запити або питання, не соромтеся зв'язатися зі мною.",
+        "message": "Напишіть мені",
+        "media": "всі-медіа",
+        "email": "",
+        "discord": ""
+    },
+    "footer": {
+        "developer": "Фронтенд та бекенд розробник",
+        "copyright": "© Авторські права 2023. Виготовлено Владиславом",
+        "media": "Медіа"
+    },
+    "pages_project": {
+        "project": "Проекти",
+        "list": "Список моїх проектів",
+        "complete-apps": "Готові-додатки",
+        "small-projects": " Малі-проекти",
+        "current-projects": "Проекти в процесі розробки",
+        "applications": {
+            "skill": "HTML SCSS Python Flask",
+            "name-project": "ChertNodes",
+            "desc": "Хостинг Minecraft серверів",
+            "live": "доступний"
+        },
+        "small-project": {
+            "Discord": "Discord.js TS JS",
+            "bot": "Шаблон бота",
+            "app": "Почніть створювати масштабованого бота для discord.js з typescript за секунди",
+            "git": "GitHub"
+        }
+    }
+}

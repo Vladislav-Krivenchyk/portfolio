@@ -1,0 +1,137 @@
+{
+  "locale": {
+    "en": "En",
+    "ru": "Ru",
+    "ua": "Ua"
+  },
+  "nav": {
+    "name": "Владислав",
+    "home": "главная",
+    "works": "работы",
+    "about-me": "обо мне",
+    "contacts": "контакты"
+  },
+    "intro": {
+        "header": "Владислав",
+        "front-end": "frontend",
+        "and": "и",
+        "backend": "backend developer",
+        "desc": {
+            "i": "Создаю",
+            "create": "адаптивные",
+            "responsive": "веб-сайты",
+            "websites": "где",
+            "where": "технологии",
+            "technologies": "встречаются",
+            "meet": "с",
+            "creativity": "творчеством"
+        },
+        "button_contact": "Свяжитесь со мной!!"
+    },
+    "quote": {
+        "word": "Совершенство не имеет границ."
+    },
+    "projects": {
+        "projects": "Проекты",
+        "view": "Просмотреть все"
+    },
+    "skills": {
+        "skills": "Навыки",
+
+        "languages": {
+            "languages-skill": "TypeScript Lua python javaScript",
+
+
+            "languages": "Languages",
+            "typeScript": "TypeScript",
+            "lua": "Lua",
+            "python": "Python",
+            "javaScript": "JavaScript"
+        },
+        "databases": {
+            "database-skill": "Databases, SQLite, PostgreSQL, Mongo",
+
+            "databases": "Databases",
+            "SQLite": "SQLite",
+            "PostgreSQL": "PostgreSQL",
+            "Mongo": "Mongo"
+        },
+        "Tools": {
+            "tools-skill": "Tools VSCode Neovim Linux Figma XFCE Arch Font Awesome",
+
+            "Tools": "Tools",
+            "VSCode": "VSCode",
+            "Neovim": "Neovim",
+            "Linux": "Linux",
+            "Figma": "Figma",
+            "XFCE":  "XFCE",
+            "Arch": "Arch",
+            "Git": "Font Awesome"
+        },
+        "Other": {
+            "other-skill": "Other HTML CSS EJS SCSS REST Jinja",
+
+            "Other": "Other",
+            "HTML": "HTML",
+            "CSS": "CSS",
+            "EJS": "EJS",
+            "SCSS": "SCSS",
+            "REST": "REST",
+            "Jinja": "Jinja"
+        },
+        "Frameworks": {
+            "frameworks-skill": "Frameworks React Vue Disnake Discord Flask Express",
+
+            "Frameworks": "Frameworks",
+            "React": "React",
+            "Vue": "Vue",
+            "Disnake": "Disnake",
+            "Discord": "Discord.js",
+            "Flask": "Flask",
+            "Express": "Express.js"
+        }
+    },
+    "about-me": {
+        "about-me": "Обо мне",
+        "question": "Кто я?",
+        "name": "Привет! Я Влад",
+        "intro": "Я опытный фронтенд-разработчик, базирующийся в Киеве, Украина, с опытом работы более трех лет. Моя специализация - создание красивых и современных веб-сайтов. За годы работы, я освоил различные технологии и методы разработки, и теперь горжусь созданием адаптивных и привлекательных пользовательских интерфейсов с нуля.",
+        "experience": "Мой опыт работы с разными клиентами помог мне лучше понимать их потребности и создавать веб-решения, которые действительно эффективны и приносят ценность.",
+        "skills": "Я всегда стремлюсь улучшать свои навыки и быть в курсе последних технологий и тенденций в индустрии фронтенд-разработки. Это позволяет мне оставаться на передовых позициях и создавать современные и инновационные веб-приложения.",
+        "conclusion": "Если у вас есть интересные проекты или идеи, давайте обсудим, как я могу помочь воплотить их в жизнь!"
+    },
+    "contacts": {
+        "section": "Контакты",
+        "question": "Кто я?",
+        "intro": "Я заинтересован в фриланс-возможностях. Однако, если у вас есть другие запросы или вопросы, не стесняйтесь связаться со мной.",
+        "message": "Напишите мне",
+        "media": "Все медиа",
+        "email": "",
+        "discord": ""
+    },
+    "footer": {
+        "developer": "Фронтенд-разработчик и бэкенд-разработчик",
+        "copyright": "© Авторские права 2023 год. Создано Владиславом",
+        "media": "Медиа"
+    },
+    "pages_project": {
+        "project": "Проекты",
+        "list": "Список моих проектов",
+        "complete-apps": "Завершенные приложения",
+        "small-projects": "Небольшие проекты",
+        "current-projects": "Проекты в процессе разработки",
+        "applications": {
+            "skill": "HTML SCSS Python Flask",
+            "name-project": "ChertNodes",
+            "desc": "Minecraft servers hosting",
+            "live": "live"
+        },
+        "small-project": {
+            "Discord": "Discord.js TS JS",
+            "bot": "Bot boilerplate",
+            "app": "Start creating scalable discord.js bot with typescript in seconds",
+            "git": "Github"
+        }
+    }
+
+}

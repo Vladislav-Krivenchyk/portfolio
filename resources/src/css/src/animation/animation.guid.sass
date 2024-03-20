@@ -1,0 +1,40 @@
+.slide-enter-active,
+.slide-leave-active
+    transition: transform 0.9s ease, opacity 0.9s ease
+
+
+.slide-enter-from,
+.slide-leave-to
+    opacity: 0
+    transition: 1.9s ease
+    transform: scale(0)
+
+
+.slide-enter-to,
+.slide-leave-from
+    opacity: 1
+    transition: 2.5s
+    transform: scale(1)
+
+
+.intro-enter-active,
+.intro-leave-active
+    transform: translateY(20px)
+    transition: opacity 0.9s ease
+
+
+
+
+.intro-enter-from,
+.intro-leave-to
+    transform: translateY(10px)
+    opacity: 0
+    transition: transform 0.9s ease, opacity 0.9s ease
+
+
+.intro-enter-to,
+.intro-leave-from
+    transform: translateY(0px)
+    opacity: 1
+    transition: 1.5s ease
+
